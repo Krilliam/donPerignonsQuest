@@ -1,0 +1,3 @@
+C:/Users/krill/CLionProjects/donPerignonsQuest/cmake-build-debug/CMakeFiles/donPerignonsQuest.dir
+C:/Users/krill/CLionProjects/donPerignonsQuest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krill/CLionProjects/donPerignonsQuest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
