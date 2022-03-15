@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\tentativoSFML.dir/objects.a
-C:\mingw32\bin\ar.exe qc CMakeFiles\tentativoSFML.dir/objects.a @CMakeFiles\tentativoSFML.dir\objects1.rsp
-C:\mingw32\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\tentativoSFML.dir/objects.a -Wl,--no-whole-archive -o tentativoSFML.exe -Wl,--out-implib,libtentativoSFML.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tentativoSFML.dir\linklibs.rsp
